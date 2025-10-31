@@ -12,7 +12,7 @@ Enjoy the game!
 This program requires live user input, so the GitHub preview cannot display the full execution log. 
 Here are screenshots of the game running in the terminal.:
 ```python
-puzzle_rpg.ipynb
+puzmon.ipynb
 ```
 ## Execution Proof
 ![Execution Proof](puzmon_start.png)
