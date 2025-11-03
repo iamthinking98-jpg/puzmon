@@ -7,7 +7,8 @@ To play, you move the gems by entering two letters (A-N) to shift a range.
 If three or more matching gems line up, your party will attack the monster. 
 Enjoy the game!
 '''
-
+## Code 
+[puzmon.ipynb](https://github.com/iamthinking98-jpg/puzmon/blob/main/puzmon.ipynb)(Note: This is a Jupyter Notebook file.)
 ## How to Run
 1.Download the puzmon.ipynb file.
 
