@@ -10,10 +10,13 @@ Enjoy the game!
 
 ## How to Run
 1.Download the puzmon.ipynb file.
+
 2.Run it using Jupyter Notebook.
-This program requires live user input, so the GitHub preview cannot display the full execution log. 
+
 ## Execution Proof
+
 Here are screenshots of the game running in the terminal.
+
 ![Execution Proof](puzmon_start.png)
 ![Execution Proof](puzmon_battle.png)
 ![Execution Proof](puzmon_gameover.png)
